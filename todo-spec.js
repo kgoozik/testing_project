@@ -33,3 +33,5 @@ describe('angularjs homepage todo list', function() {
 
     })
   });
+
+  //klaudia changes
